@@ -83,11 +83,7 @@ This makes the AI **unbeatable**.
 
 ## 🖥️ UI Preview
 
-> 📸 Add a screenshot of your UI here
-
-```text
-/screenshots/tictactoe-ui.png
-```
+![Tic Tac Toe UI](screenshots/ui.png)
 
 ---
 
